@@ -1,0 +1,54 @@
+# 🍕 Pizza Sales Analysis Project
+
+## 📌 Objective
+
+Analyze pizza sales data to generate business insights using SQL and Google Sheets.
+
+---
+
+## 📊 KPIs
+
+* Total Revenue
+* Average Order Value
+* Total Orders
+* Total Pizzas Sold
+* Average Pizzas per Order
+
+---
+
+## 📈 Analysis Performed
+
+* Daily order trends
+* Hourly sales trends
+* Sales by category
+* Sales by size
+* Top & bottom selling pizzas
+
+---
+
+## 🛠 Tools Used
+
+* SQL (SQLite / MySQL)
+* Google Sheets
+
+---
+
+## 📂 Project Structure
+
+* data/ → raw dataset
+* sql/ → SQL queries
+* outputs/ → charts & results
+
+---
+
+## 📌 Key Insights
+
+* Peak sales hours identified
+* Most popular pizza categories found
+* Best-selling and worst-selling pizzas analyzed
+
+---
+
+## 🚀 Conclusion
+
+This project helps understand sales patterns and customer behavior, enabling better business decisions.
