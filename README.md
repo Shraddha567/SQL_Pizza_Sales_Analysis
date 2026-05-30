@@ -31,11 +31,11 @@ All analysis was done using **SQL (MySQL)** for data extraction and **Google She
 
 | KPI | Value |
 |-----|-------|
-| 💰 Total Revenue | *(add your value)* |
-| 🧾 Average Order Value | *(add your value)* |
-| 🍕 Total Pizzas Sold | *(add your value)* |
-| 📦 Total Orders | *(add your value)* |
-| 📐 Avg Pizzas per Order | *(add your value)* |
+| 💰 Total Revenue |
+| 🧾 Average Order Value |
+| 🍕 Total Pizzas Sold |
+| 📦 Total Orders |
+| 📐 Avg Pizzas per Order |
 
 ---
 
