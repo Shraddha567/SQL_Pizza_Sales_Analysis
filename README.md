@@ -4,13 +4,6 @@ An end-to-end SQL analysis of one year of pizza sales data to uncover revenue tr
 
 ---
 
-## 🖼️ Dashboard Preview
-
-> 📌 *Add your dashboard screenshot here:*
-> `![Pizza Sales Dashboard](dashboard/dashboard_preview.png)`
-
----
-
 ## 📌 Project Overview
 
 This project answers real business questions a pizza chain manager would actually ask:
