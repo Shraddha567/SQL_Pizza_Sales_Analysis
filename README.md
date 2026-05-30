@@ -29,8 +29,8 @@ All analysis was done using **SQL (MySQL)** for data extraction and **Google She
 
 ## 📊 Key Performance Indicators
 
-| KPI | Value |
-|-----|-------|
+| KPI |
+|-----|
 | 💰 Total Revenue |
 | 🧾 Average Order Value |
 | 🍕 Total Pizzas Sold |
